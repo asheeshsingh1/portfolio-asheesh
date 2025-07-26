@@ -38,8 +38,8 @@ export default function Hero() {
 
         <p>
           I specialize in cloud-native deployments with <strong>Docker</strong>, <strong> Kubernetes</strong>,<strong> CI-CD</strong>,<strong> Orchestration with Prefect.io</strong>, and IaC tools like
-          <strong>Ansible</strong> and <strong>Terraform</strong>, delivering solutions across <strong>AWS</strong> and
-          <strong>Azure</strong>. My DevOps experience includes CI/CD pipelines with <strong>GitHub Actions</strong> and
+          <strong> Ansible</strong> and <strong>Terraform</strong>, delivering solutions across <strong>AWS</strong> and
+          <strong> Azure</strong>. My DevOps experience includes CI/CD pipelines with <strong>GitHub Actions</strong> and
           workflow automation using <strong>Prefect</strong>.
         </p>
 
