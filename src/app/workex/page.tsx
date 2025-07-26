@@ -56,8 +56,8 @@ const workExperience = [
     duration: "2021 Feb – 2021 June",
     description: [
       "Worked closely with DevOps teams to manage AWS infrastructure and automate EC2 instance monitoring scripts.",
-      "Developed generic functions to automate the retrieval of properties from EC2 instances, streamlining data access and boosting operational eﬃciency.",
-      "Enhanced a SpringBoot based mock application and integrated it with automation testing scripts, enabling eﬃcient end-to-end test validation."
+      "Assisted in designing CI/CD pipelines using Jenkins and GitLab, enabling smooth code deployments and rollback mechanisms.",
+      "Wrote unit and integration tests using JUnit and Mockito, increasing test coverage and code reliability."
     ]
   },
 ];
